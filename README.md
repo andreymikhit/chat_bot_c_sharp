@@ -2,6 +2,7 @@
 GeekBrains
 ---
 https://gb.ru/lessons/72111
+
 https://youtu.be/CDZIYF2LZE4
 
 # Создание интеллектуальных чат ботов на C#
