@@ -6,7 +6,7 @@ GeekBrains
 
 ### Урок. Введение в практику создания интеллектуальных чат-ботов
 
-'''cs
+```cs
 using Telegram.Bot;
 using Telegram.Bot.Args;
 using Telegram.Bot.Types;
@@ -33,7 +33,7 @@ await client.SendTextMessageAsync(message.Chat.Id, message.Text);
 }
 } 
 }
-'''
+```
 
 ![image](https://github.com/user-attachments/assets/3fc79a89-7c13-4eb5-88cb-5da0df7e846d)
 
