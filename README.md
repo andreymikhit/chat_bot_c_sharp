@@ -47,3 +47,6 @@ namespace ConsoleBot
 ![image](https://github.com/user-attachments/assets/3e870213-8874-4a46-ad44-900e5bf5329c)
 
 ![image](https://github.com/user-attachments/assets/27eb50bd-6c80-4542-bae3-37aadcb9356f)
+
+![image](https://github.com/user-attachments/assets/ab155884-0114-411e-aeb6-08ab44ad887a)
+
