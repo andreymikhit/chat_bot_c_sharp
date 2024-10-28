@@ -37,6 +37,7 @@ await client.SendTextMessageAsync(message.Chat.Id, message.Text);
 
 > [Literature HABR](https://habr.com/ru/articles/657583/)
 > https://habr.com/ru/articles/657583/
+
 > https://gb.ru/lessons/72111
 
 ![image](https://github.com/user-attachments/assets/3fc79a89-7c13-4eb5-88cb-5da0df7e846d)
